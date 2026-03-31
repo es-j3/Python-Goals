@@ -1,6 +1,7 @@
-# Python-Goals
+# Goals for Python
 
-This guy is the GOAT: https://www.youtube.com/watch?v=ix9cRaBkVe0&t=937s
-Just a repo where I keep track of learning Python 
+This is just a repo where I keep track of learning Python.
 
-Day 1: Variables - All done
+The video from which I am learning is: https://www.youtube.com/watch?v=ix9cRaBkVe0&t=937s
+
+Let's see if we can truck through this in 2 weeks 💪
