@@ -8,9 +8,9 @@ Let's see if we can truck through this in 2 weeks 💪
 
 ~~#1 python tutorial for beginners (DONE 2026/03/30)~~
 
-#2 variables (DONE 2026/03/30)
+~~#2 variables (DONE 2026/03/30)~~
 
-#3 type casting (DONE 3036/03/30)
+~~#3 type casting (DONE 2026/04/1)~~
 
 #4 user input
 
