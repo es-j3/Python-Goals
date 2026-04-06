@@ -1,0 +1,10 @@
+adjective1 = input("Pishai adjectiv (opis) > ")
+noun1 = input("Pishai imienik (cholvek, meste, co-to) > ")
+adjective2 = input("Pishai adjectiv (opis) > ")
+verb1 = input("Pishte chasovnik, koniec s '-jet' > ")
+adjective3 = input("Pishai adjectiv (opis) > ")
+
+print(f"V eten djen ja posholje v {adjective1} zo.")
+print(f"V komnacie, ja uvidal {noun1}")
+print(f"{noun1} byl {adjective2} i {verb1}")
+print(f"Ja chulse {adjective3}!")
